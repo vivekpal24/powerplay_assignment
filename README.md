@@ -25,7 +25,7 @@ TicketBoss is a specialized microservice for managing inventory for a single hig
 1. **Clone the repository**
    ```bash
    git clone https://github.com/vivekpal24/powerplay_assignment.git
-   cd ticket-boss-api
+   cd powerplay_assignment
    ```
 
 2. **Install Dependencies**
